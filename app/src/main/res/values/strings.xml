@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Проверка</string>
+    <string name="voltage">Напряжение</string>
+    <string name="material">Материал жилы</string>
+    <string name="area">Сечение</string>
+    <string name="power">Мощность, кВт</string>
+    <string name="length">Длина, м</string>
+    <string name="singlephase">220 В</string>
+    <string name="tripplephase">380 В</string>
+    <string name="alum">Al</string>
+    <string name="cuprum">Cu</string>
+    <string name="runButton">Расчет</string>
+    <string name="cosFi">cos ф</string>
+
+    <string-array name="profile">
+        <item>1.5</item>
+        <item>2.5</item>
+        <item>4</item>
+        <item>6</item>
+        <item>10</item>
+        <item>16</item>
+        <item>25</item>
+        <item>35</item>
+        <item>50</item>
+        <item>70</item>
+        <item>95</item>
+        <item>120</item>
+        <item>150</item>
+        <item>185</item>
+        <item>240</item>
+    </string-array>
+
+</resources>
